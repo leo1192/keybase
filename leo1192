@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am leo1192 on github.
+  * I am leo1118 (https://keybase.io/leo1118) on keybase.
+  * I have a public key ASDObZh9U7idHDKxmLxBpT8kjndFRl35Dq3pGbFdk5RgpAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ce6d987d53b89d1c32b198bc41a53f248e7745465df90eade919b15d939460a40a",
+      "host": "keybase.io",
+      "kid": "0120ce6d987d53b89d1c32b198bc41a53f248e7745465df90eade919b15d939460a40a",
+      "uid": "9cc3b79a5b57a1578d3f386cc5149d19",
+      "username": "leo1118"
+    },
+    "merkle_root": {
+      "ctime": 1574469791,
+      "hash": "b0cba8e5764f10f8b66e27d24c01f3efca6734a36e9925f6eeb64ac1f9c8d72894b694c61088d94a6349343a5c7f8e3115a0d37d533a385c8dd444330e90565f",
+      "hash_meta": "8612c40da9ca738ff5ef997b1642754bbd1361740313f49c736e6957b5939e34",
+      "seqno": 10564378
+    },
+    "service": {
+      "entropy": "D/GOAOiNq9m6j4IKUZbdgz51",
+      "name": "github",
+      "username": "leo1192"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574470262,
+  "expire_in": 504576000,
+  "prev": "990cdad92a9950193dacb365bcd79a5bd91b9f2806937cf7da65fbe80e2c9c6a",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASDObZh9U7idHDKxmLxBpT8kjndFRl35Dq3pGbFdk5RgpAo](https://keybase.io/leo1118), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzm2YfVO4nRwysZi8QaU/JI53RUZd+Q6t6RmxXZOUYKQKp3BheWxvYWTESpcCCMQgmQza2SqZUBk9rLNlvNeaW9kbnygGk3z32mX76A4snGrEIHEJKM0wZlEDmAwJ7YHK6caP6JNk5F2OBfNSCoUA9GL1AgHCo3NpZ8RA71LFFAgk19KWllchSLFCl9/ulzxFzPS/crxmGhv8/VSvKcaiD30x0u+89k0uDgvw8kwp7292yDANEA2iKbn1CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAitdUu5McLVt96I3rs2MDovqH2PMYhj+UusaqDGMd3no3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/leo1118
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id leo1118
+```
